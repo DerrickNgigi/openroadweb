@@ -419,8 +419,8 @@
             	</div>
             </div>
 
-            <!-- How it Work -->
-            <div class="section-full  p-t80 p-b50 bg-gray" id="about">
+            <!-- About -->
+            <div class="section-full  p-t80 p-b50 bg-gray" id="about-the-Best-Parking-and-Warehousing-Company-in-Nairobi">
             	<div class="container">
                     <!-- TITLE START-->
                     <div class="section-head text-center">
@@ -498,7 +498,7 @@
                 </div>
             </div>
 
-            <!-- Latest Project -->
+            <!-- animation -->
             <div class="section-full  p-tb80 bg-full-height bg-secondry bg-repeat-x city-slide-image" style="background-image:url(images/background/bg-trans-1.png);">
                  <div class="container-fluid">
                     <div class="fillter-left-content">
@@ -710,7 +710,7 @@
                                                 <span class="icon-cell  text-white"><i class="flaticon-wallet"></i></span>
                                             </div>
                                             <div class="icon-content">
-                                                <h4 class="mt-tilte  m-b15 text-primary">Acessibility</h4>
+                                                <h4 class="mt-tilte  m-b15 text-primary">Accessibility</h4>
                                                 <p class="text-white">TThe premise is located in a suitable place for easy access.</p>
                                             </div>
                                         </div>
@@ -722,7 +722,7 @@
             </div>
 
             <!-- Testimonials -->
-            <div class="section-full p-t80 p-b80 bg-center bg-full-height bg-no-repeat bg-gray"  style="background-image:url(images/background/bg-map.png);" id="testimonial">
+            <div class="section-full p-t80 p-b80 bg-center bg-full-height bg-no-repeat bg-gray"  style="background-image:url(images/background/bg-map.png);" id="testimonials-of-the-Best-Parking-and-Warehousing-Company-in-Nairobi">
                 <div class="container">
                     <!-- TITLE START -->
                     <div class="section-head text-center">
@@ -791,7 +791,7 @@
             </div>
 
             <!-- Contact Us  -->
-			<div class="section-full bg-white bg-right-center bg-no-repeat" style="background-image:url(images/background/bg-trans-2.png);" id="contact">
+			<div class="section-full bg-white bg-right-center bg-no-repeat" style="background-image:url(images/background/bg-trans-2.png);" id="contact-the-Best-Parking-and-Warehousing-Company-in-Nairobi">
                 <div class="container">
                     <div class="row conntact-home">
                         <div class="col-lg-5 col-md-5 col-sm-12">

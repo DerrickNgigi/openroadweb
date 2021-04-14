@@ -107,10 +107,20 @@
             <!-- Search Link -->
 
             <div class="main-bar header-middle bg-white">
-                <div class="container">
-                    <div class="logo-header">
-                        <a href="index.html">
-                            <img src="images/logo-1.png" width="216" height="37" alt="" />
+                <div class="container" style="padding-left: 0px ; padding-right: 0px">
+                    <div class="logo-header" style="background-color: rgb(1, 14, 42);">
+                        <a href="/Best-Parking-and-Warehousing-Company-in-Nairobi">
+                            {{-- <img src="images/logo-1.png" width="300" height="37" alt="" /> --}}
+                             <div class="tp-caption BigBold-Title   tp-resizeme"
+                            style="
+                            text-transform:uppercase;
+                            color:#ff5e14;
+                            font-size: 60%;
+                            width: auto;
+                            font-weight: 700;
+                            margin-right: 10%;
+                            ">Openroad Limited Entreprises.
+                            </div>
                         </a>
                     </div>
                     <div class="header-info">
@@ -223,16 +233,16 @@
                         <div class="header-nav navbar-collapse collapse ">
                             <ul class=" nav navbar-nav">
                                 <li class="active">
-                                    <a href="#">Home<i class=""></i></a>
+                                    <a href="/Best-Parking-and-Warehousing-Company-in-Nairobi">Home<i class=""></i></a>
                                 </li>
                                 <li>
-                                    <a href="#about">About<i class=""></i></a>
+                                    <a href="#about-the-Best-Parking-and-Warehousing-Company-in-Nairobi">About<i class=""></i></a>
                                 </li>
                                 <li>
-                                    <a href="#testimonial">Testimony<i class=""></i></a>
+                                    <a href="#testimonials-of-the-Best-Parking-and-Warehousing-Company-in-Nairobi">Testimony<i class=""></i></a>
                                 </li>
                                 <li>
-                                    <a href="#contact">Contact Us<i class=""></i></a>
+                                    <a href="#contact-the-Best-Parking-and-Warehousing-Company-in-Nairobi">Contact Us<i class=""></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -251,69 +261,54 @@
                 <div class="container">
                     <div class="row">
                         <!-- About -->
-                        <div class="col-md-3 col-sm-6">
+                        <div class="col-md-4 col-sm-6">
                             <div class="widget widget_about text-white">
                                 <h4 class="widget-title">About Company</h4>
-                                <div class="logo-footer clearfix p-b15">
-                                    <a href="index.html"><img src="images/footer-logo.png" width="171" height="49"
-                                            alt="" /></a>
+                                <div class="logo-footer clearfix p-15">
+                                    {{-- <a href="index.html"><img src="images/footer-logo.png" width="171" height="49"
+                                            alt="" /></a> --}}
+                                            <div class="tp-caption BigBold-Title   tp-resizeme"
+                                            style="
+                                            text-transform:uppercase;
+                                            color:#ff5e14;
+                                            font-size: 60%;
+                                            width: auto;
+                                            font-weight: 700;
+                                            margin-right: 10%;
+                                            ">Openroad Limited Entreprises.
+                                            </div>
                                 </div>
-                                <p>Lorem ipsum this is dummy text dolor sit amet check this text, consecte tura
-                                    dipiscing elit, sed do eiusmod tempor doler is incididunt. </p>
+
                                 <ul>
                                     <li> <i class="fa fa-phone text-primary"></i> <b class="p-lr5 text-uppercase">Tel
                                             :</b> +254 794 263292</li>
                                     <li><i class="fa fa-envelope text-primary"></i> <b
                                             class="p-lr5 text-uppercase">Email : </b>info@openroad.co.ke</li>
                                     <li><i class="fa fa-location-arrow text-primary"></i> <b
-                                            class="p-lr5 text-uppercase">Location :</b> Street 4 ,45 Ny City</li>
+                                            class="p-lr5 text-uppercase">Location :511-00600, Nairobi</b></li>
                                 </ul>
                             </div>
                         </div>
                         <!-- Useful Links -->
-                        <div class="col-md-3 col-sm-6">
+                        <div class="col-md-4 col-sm-6">
                             <div class="widget widget_services text-white">
                                 <h4 class="widget-title">Useful links</h4>
                                 <ul>
-                                    <li><a href="about-1.html">About</a></li>
-                                    <li><a href="faq-1.html">FAQ</a></li>
-                                    <li><a href="our-team.html">Our Team</a></li>
-                                    <li><a href="services.html">Services</a></li>
-                                    <li><a href="gallery-grid-1.html">Gallery</a></li>
-                                    <li><a href="gallery-grid-1.html">Contact Us</a></li>
+                                    <li><a href="#about-the-Best-Parking-and-Warehousing-Company-in-Nairobi">About</a></li>
+                                    <li><a href="#contact-the-Best-Parking-and-Warehousing-Company-in-Nairobi">Contact Us</a></li>
+                                    <li><a href="https://goo.gl/maps/2EjQJqATRCj88q2R6">Google Map Location</a></li>
                                 </ul>
                             </div>
                         </div>
-
-                        <!-- Instagram Feed -->
-                        <div class="col-md-3 col-sm-6">
-                            <div class="widget widget_newsletter f-news-letter text-white">
-                                <h4 class="widget-title">Newsletter</h4>
-                                <div class="newsletter-bx m-b30">
-                                    <form role="search" method="post">
-                                        <div class="input-group">
-                                            <input name="news-letter" class="form-control"
-                                                placeholder="ENTER YOUR EMAIL" type="text">
-                                            <span class="input-group-btn">
-                                                <button type="submit" class="site-button btn font-weight-600"><i
-                                                        class="fa fa-paper-plane"></i></button>
-                                            </span>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-
-            <!-- Footer Copyright Part -->
-            <div class="footer-bottom overlay-wraper bg-white">
-                <div class="overlay-main"></div>
-                <div class="container p-t30">
-
+<!-- Footer Copyright Part -->
+                        <div class="col-md-4 col-sm-6">
                     <div class="mt-footer-bot-center">
-                        <span class="copyrights-text">© 2021 OpenRoad Entreprises Limited. All Rights Reserved.</span>
+                        <span class="copyrights-text">© 2021 OpenRoad Entreprises Limited.</span>
+                        <br>
+                        <span class="copyrights-text"> All Rights Reserved.</span>
                     </div>
 
                 </div>
-            </div>
         </footer>
 
         <!-- Scroll Top Button -->
@@ -380,7 +375,7 @@
     <script src="js/rev-script-3.js"></script>
 
     <!-- STYLE SWITCHER  ======= -->
-    <div class="styleswitcher">
+    {{-- <div class="styleswitcher">
 
         <div class="switcher-btn-bx">
             <a class="switch-btn">
@@ -403,7 +398,7 @@
             </ul>
 
         </div>
-    </div>
+    </div> --}}
     <!-- STYLE SWITCHER END ==== -->
 
 </body>

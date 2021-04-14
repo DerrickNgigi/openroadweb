@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+Route::get('/Best-Parking-and-Warehousing-Company-in-Nairobi', function () {
     return view('home');
 });
 // Route::get('/welcome', function () {

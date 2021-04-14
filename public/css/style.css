@@ -1,23 +1,23 @@
 /*
 ==========================
-Template: Fast-way - transport & Logistic Business HTML Template 
+Template: Fast-way - transport & Logistic Business HTML Template
 Author: 7xtheme team
-Version: 1.0  
+Version: 1.0
 ==========================
 */
 
 
 /*____GENERAL____
 ===============================
-		|____HEADING & TITLE____	
-		|____TEXT & PARAGRAPH____	
-		|____TEXT ALIGN____		
-		|____TEXT VERTICLE ALIGN____	
-		|____TEXT NO LINE BRACK____		
-		|____TEXT TRANSFORM____		
-		|____TEXT SIZE____	
+		|____HEADING & TITLE____
+		|____TEXT & PARAGRAPH____
+		|____TEXT ALIGN____
+		|____TEXT VERTICLE ALIGN____
+		|____TEXT NO LINE BRACK____
+		|____TEXT TRANSFORM____
+		|____TEXT SIZE____
 		|____TEXT BOLD____*/
-		
+
 
 /*____DISPLAY____
 ===============================
@@ -25,8 +25,8 @@ Version: 1.0
 		|____LISTING BEFORE ICON COLOR CSS____
 		|____LISTING BEFORE NUMBERS____
 		|____BOX SPACING (Padding & Margin)____*/
-		
-		
+
+
 /*____PADDING AROUND____
 ===============================
 		|____PADDING TOP____
@@ -35,7 +35,7 @@ Version: 1.0
 		|____PADDING RIGHT____
 		|____PADDING LEFT AND RIGHT____
 		|____PADDING TOP AND BOTTOM____*/
-		
+
 
 /*____MARGIN AROUND____
 ===============================
@@ -45,7 +45,7 @@ Version: 1.0
 		|____MARGINE RIGHT____
 		|____MARGINE LEFT AND RIGHT____
 		|____MARGINE TOP AND BOTTOM____*/
-		
+
 
 /*____COLUMN NO GAP____
 ===============================*/
@@ -57,8 +57,8 @@ Version: 1.0
 		|____ABSOLUTE____
 		|____STATIC____
 		|____Z-INDEX____*/
-		
-		
+
+
 
 /*____TEXT COLORS____
 ===============================*/
@@ -75,7 +75,7 @@ Version: 1.0
 /*____OVERLAY ( transparient box style  )____
 ===============================
 		|____USE FOR BOX____
-		|____SHOW FOR TEXT____ 
+		|____SHOW FOR TEXT____
 		|____BOXES CSS____
 		|____BOX CONTENT____
 		|____FOR ICON WITH BOX____*/
@@ -93,7 +93,7 @@ Version: 1.0
 		|____ICON BOX CENTER ALIGN____
 		|____MEDIA WITH CONTENT BOX CSS____
 		|____BEFOE & AFTER FOR LINE CSS____*/
-		
+
 
 /*____FOR IMAGE____
 ===============================
@@ -119,57 +119,57 @@ Version: 1.0
 		|____BUTTON TEXT UPPERCASE____
 		|____BUTTON ROUNDED____
 		|____BUTTON COLORS____
-		|____BUTTON WHITE____ 
-		|____BUTTON BLACK____ 
-		|____BUTTON GRAY____ 
-		|____BUTTON PINK____ 
-		|____BUTTON BLUE____ 
-		|____BUTTON GREEN____ 
+		|____BUTTON WHITE____
+		|____BUTTON BLACK____
+		|____BUTTON GRAY____
+		|____BUTTON PINK____
+		|____BUTTON BLUE____
+		|____BUTTON GREEN____
 		|____BUTTON ORANGE____
 		|____BUTTON RED____
-		|____BUTTON BROWN____ 
+		|____BUTTON BROWN____
 		|____BUTTON YELLOW____
-		|____BUTTON PURPLE____ 
+		|____BUTTON PURPLE____
 		|____BUTTON GRAPHICAL____
-		|____BUTTON 3D____ 
+		|____BUTTON 3D____
 		|____BUTTON OUTLINE____
-		|____BUTTON OUTLINE WHITE____ 
+		|____BUTTON OUTLINE WHITE____
 		|____BUTTON OUTLINE BLACK____
-		|____BUTTON OUTLINE GRAY____ 
-		|____BUTTON OUTLINE PINK____ 
-		|____BUTTON OUTLINE BLUE____ 
+		|____BUTTON OUTLINE GRAY____
+		|____BUTTON OUTLINE PINK____
+		|____BUTTON OUTLINE BLUE____
 		|____BUTTON OUTLINE GREEN____
 		|____BUTTON OUTLINE ORANGE____
 		|____BUTTON OUTLINE RED____
 		|____BUTTON OUTLINE BROWN____
 		|____BUTTON OUTLINE YELLOW____
-		|____BUTTON OUTLINE PURPLE____ 
+		|____BUTTON OUTLINE PURPLE____
 		|____BUTTON OUTLINE HOVER____
-		|____BUTTON TEXT LINK____ 
+		|____BUTTON TEXT LINK____
 		|____BUTTON TEXT LINK WHITE____
 		|____BUTTON TEXT LINK BLACK____
-		|____BUTTON TEXT LINK GRAY____ 
-		|____BUTTON TEXT LINK PINK____ 
-		|____BUTTON TEXT LINK BLUE____ 
+		|____BUTTON TEXT LINK GRAY____
+		|____BUTTON TEXT LINK PINK____
+		|____BUTTON TEXT LINK BLUE____
 		|____BUTTON TEXT LINK GREEN____
 		|____BUTTON TEXT LINK ORANGE____
 		|____BUTTON TEXT LINK RED____
 		|____BUTTON TEXT LINK BROWN____
 		|____BUTTON TEXT LINK YELLOW____
-		|____BUTTON TEXT LINK PURPLE____ 
+		|____BUTTON TEXT LINK PURPLE____
 		|____BUTTON APP STORE____*/
-		
+
 
 		/*____TITLE SEPARATORS____
 		===============================
 		|____DEFUALT SEPARATORS____
 		|____LINE SEPARATORS____
 		|____SQUARE SEPARATORS____
-		|____ICON SEPARATORS____ 
+		|____ICON SEPARATORS____
 		|____DEVIDERS____ */
-		
 
-		/*____TABS____ 
+
+		/*____TABS____
 		===============================
 		|____TABS DEFUALT____
 		|____TABS NAV CENTER____
@@ -202,7 +202,7 @@ Version: 1.0
 		|____EMPTY MEDIA____
 		|____EVENT CAROUSELS____
 		|____CLIENT CAROUSELS 1____ */
-		
+
 
 		/*____TESTIMONIAL____
 		===============================
@@ -210,18 +210,18 @@ Version: 1.0
 		|____TESTIMONIAL 2____
 		|____TESTIMONIAL 2 WITH BG IMAGE____
 		|____TESTIMONIAL 5____ */
-		
 
-		/*____PRICING TABLE____ 
+
+		/*____PRICING TABLE____
 		===============================
 		|____PRICING TABLE STYLE 5____*/
-		
+
 
 		/*____ALERT BOX____
 		=============================== */
-		
 
-		/*____IMAGE EFFECTS____ 
+
+		/*____IMAGE EFFECTS____
 		===============================
 		|____IMAGE OPACITY____
 		|____IMAGE ZOOM____
@@ -238,11 +238,11 @@ Version: 1.0
 		|____IMAGE BLURR INVERT____
 		|____IMAGE OFF COLOR____
 		|____IMAGE ON COLOR____ */
-		
+
 
 		/*____MODAL POPUP____
 		=============================== */
-		
+
 
 		/*____SOCIAL ICONS____
 		===============================
@@ -250,7 +250,7 @@ Version: 1.0
 		|____SOCIAL ICON WITH BORDER____
 		|____SOCIAL ICON DARK____
 		|____SOCIAL ICON STYLE-1____ */
-		
+
 
 		/*____BREADCRUMB____
 		===============================
@@ -262,16 +262,16 @@ Version: 1.0
 
 		/*____GOOGLE MAP____
 		===============================*/
-		
-		
+
+
 		/*____PROGRESS BAR____
 		===============================*/
-		
-				
+
+
 		/*____COUNTDOWN CLOCK____
 		===============================*/
-		
-		
+
+
 		/*____FORM ELEMENTS____
 		===============================
 		|____INPUT GROUP____
@@ -289,8 +289,8 @@ Version: 1.0
 		|____HORIZONTAL RESIZE____
 		|____RESIZE NONE____
 		|____LOADING____*/
-		
-		
+
+
 		/*____WIDGETS____
 		===============================
 		|____WIDGETS LISTING____
@@ -311,24 +311,24 @@ Version: 1.0
 		|____WIDGETS FORM____
 		|____WIDGETS CLIENT SLIDER____
 		|____WIDGETS TWITTER____*/
-		
+
 		/*____TABLE____
 		===============================
 		____TABLE RESPONSIVE____*/
-		
-		
+
+
 		/*____VIDEO____
 		===============================*/
-		
-		
+
+
 		/*____ICONS____
 		===============================*/
-		
-		
+
+
 		/*____CALL TO ACTION____
 		===============================*/
-		
-		
+
+
 		/*____WP DEFAULT____
 		===============================
 
@@ -617,10 +617,10 @@ ____INNER PAGE BANNER____*/
 
 ===============================*/
 
-/* triangle 
+/* triangle
 ===============================*/
 
-/* pulse wave 
+/* pulse wave
 ===============================*/
 
 /* img full
@@ -3851,7 +3851,7 @@ ol.list-num-count.list-outline-none>li:before {
 	-moz-transition: all .8s ease;
 	-ms-transition: all .8s ease;
 	-o-transition: all .8s ease;
-	transition: all .8s ease;	
+	transition: all .8s ease;
 }
 
 .site-button:after {
@@ -3862,12 +3862,12 @@ ol.list-num-count.list-outline-none>li:before {
 	top:0px;
 	right:100%;
 	background-color:rgba(255,255,255,0.2);
-	
+
 	-webkit-transition: all .8s ease;
 	-moz-transition: all .8s ease;
 	-ms-transition: all .8s ease;
 	-o-transition: all .8s ease;
-	transition: all .8s ease;	
+	transition: all .8s ease;
 }
 .site-button:hover:after{
 	right:0%;
@@ -3883,7 +3883,7 @@ ol.list-num-count.list-outline-none>li:before {
 	-moz-transition: all .8s ease;
 	-ms-transition: all .8s ease;
 	-o-transition: all .8s ease;
-	transition: all .8s ease;	
+	transition: all .8s ease;
 }
 
 
@@ -3895,12 +3895,12 @@ ol.list-num-count.list-outline-none>li:before {
 	top:0px;
 	right:100%;
 	background-color:rgba(255,255,255,0.2);
-	
+
 	-webkit-transition: all .8s ease;
 	-moz-transition: all .8s ease;
 	-ms-transition: all .8s ease;
 	-o-transition: all .8s ease;
-	transition: all .8s ease;	
+	transition: all .8s ease;
 }
 .site-button-secondry:hover:after{
 	right:0%;
@@ -4341,7 +4341,7 @@ ol.list-num-count.list-outline-none>li:before {
 	content:"";
 	position:absolute;
 	width:2px;
-	height:100%;	
+	height:100%;
 	background-color:#a1a1a1;
 	top:0px;
 	-webkit-transition: all 0.5s linear;
@@ -4349,7 +4349,7 @@ ol.list-num-count.list-outline-none>li:before {
 	-ms-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
 	transition: all 0.5s linear;
-	opacity:0;	
+	opacity:0;
 }
 .site-button-link:before{
 	right:0%;
@@ -5549,7 +5549,7 @@ ol.list-num-count.list-outline-none>li:before {
     margin-left: 0px;
 	text-align:center;
 
-}	
+}
 
 }
 /*____TESTIMONIAL 2 WITH BG IMAGE____ */
@@ -5690,7 +5690,7 @@ ol.list-num-count.list-outline-none>li:before {
 			margin: 0px auto;
 		}
 
-         
+
 }
 
 
@@ -5733,7 +5733,7 @@ ol.list-num-count.list-outline-none>li:before {
 
 .pricingtable-bx {
 	font-size: 100px;
-	
+
 }
 
 .pricingtable-type {
@@ -5886,7 +5886,7 @@ ol.list-num-count.list-outline-none>li:before {
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
-	transition: all 0.5s linear;	
+	transition: all 0.5s linear;
 }
 .pricing-table-style-5.pricing-table-shadow:hover {
 	-webkit-box-shadow: 0 0px 30px 0 rgba(50, 50, 50, .16);
@@ -8323,7 +8323,7 @@ blockquote:before {
 	padding: 10px 5px;
 	position: relative;
 	line-height: 60px;
-	
+
 }
 
 .date-style-2 .post-date span {
@@ -8344,7 +8344,7 @@ blockquote:before {
 	font-size: 30px;
 	line-height: 30px;
 
-}	
+}
 
 }
 
@@ -8457,7 +8457,7 @@ blockquote:before {
 		width: 100%;
 	}
 	.blog-md .mt-post-info{
-	padding:20px 0px;	
+	padding:20px 0px;
 	}
 }
 
@@ -9584,7 +9584,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	margin-bottom: 0;
 	margin-left: 0;
 	margin-right: 0;
-	width: 220px;
+	width: auto;
 	height: 90px;
 	position: relative;
 	z-index: 9;
@@ -9592,7 +9592,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 @media only screen and (max-width:991px) {
 	.logo-header {
-		width: 180px;
+		/* width: 180px; */
 	}
 	.header-skew::before,
 	.header-skew::after {
@@ -9603,7 +9603,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 @media only screen and (max-width:768px) {
 	.logo-header {
-		width: 180px;
+		/* width: 180px; */
 		padding-left: 7px;
 	}
 }
@@ -9617,7 +9617,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 }
 @media only screen and (max-width:400px) {
 	.logo-header {
-		width: 160px;
+		/* width: auto; */
 	}
 
 }
@@ -9864,8 +9864,8 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 @media only screen and (max-width:767px) {
 	.header-middle .logo-header {
-		float: none;
-		margin: 9px auto;
+		/* float: none;
+		margin: 9px auto; */
 	}
 	.header-botton .navbar-toggle {
 		padding-left: 0px;
@@ -10762,8 +10762,8 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 }
 
 .header-style-6 .hide-skew-section.logo-header:after{
-background-color: transparent;	
-	
+background-color: transparent;
+
 }
 @media only screen and (max-width:991px) {
 	.header-style-6 .is-fixed .header-nav .nav>li:first-child>a {
@@ -10777,7 +10777,7 @@ background-color: transparent;
 		padding-left: 14px !important;
 	}
 	.header-style-6 .logo-header:after{
-		display:none;		
+		display:none;
 	}
 
 }
@@ -12702,13 +12702,13 @@ ol.commentlist li::after {
 	bottom:0%;
 	width:100%;
 	background-color:#efefef;
-	
+
 	-webkit-transition: all 0.5s ease;
 	-moz-transition: all 0.5s ease;
 	-ms-transition: all 0.5s ease;
 	-o-transition: all 0.5s ease;
 	transition: all 0.5s ease;
-	
+
 /*	-webkit-transform:translateY(-50%);
 	transform:translateY(-50%);
 	transform-origin: center center;	*/
@@ -12766,7 +12766,7 @@ ol.commentlist li::after {
 	background-position: center center;
 }
 
-.masonry-filter {    
+.masonry-filter {
 	display:table;
 	margin-bottom:0;
 }
@@ -12781,7 +12781,7 @@ ol.commentlist li::after {
 
 .masonry-filter > li a {
     color: #fff;
-    font-size: 14px;    
+    font-size: 14px;
 }
 
 
@@ -12799,7 +12799,7 @@ ol.commentlist li::after {
 .masonry-filter > li a{
 	font-size:14px !important;
 }
-}	
+}
 /* 1.45(1) Masonry filter alignment [Left-Right-Center] */
 .filter-wrap.right > .masonry-filter {
 	float:right;
@@ -13394,7 +13394,7 @@ ol.commentlist li::after {
 @media only screen and ( max-width:991px) {
 	.contact-home1-right{
 		display: none;
-	}	
+	}
 }
 
 @media only screen and ( max-width:768px) {
@@ -13566,17 +13566,17 @@ ol.commentlist li::after {
 @media only screen and (max-width:1600px) {
 .filter-left-part {
 	left:-130px;
-}	
+}
 }
 @media only screen and (max-width:1440px) {
 .filter-left-part {
 	left:-170px;
-}	
+}
 }
 @media only screen and (max-width:1280px) {
 .filter-left-part {
 	display:none;
-}	
+}
 }
 /*____SPIN IMG____*/
 
@@ -13585,7 +13585,7 @@ ol.commentlist li::after {
   animation-name: spin;
   animation-duration: 5000ms;
   animation-iteration-count: infinite;
-  animation-timing-function: linear; 
+  animation-timing-function: linear;
 }
 
 @keyframes spin {
@@ -13991,7 +13991,7 @@ ol.commentlist li::after {
 .section-head h2:after,
 .section-head h3:after{
 	position: absolute;
-    content:attr(data-title);	
+    content:attr(data-title);
 	color: rgba(210, 210, 210, 0.3);
 	font-weight: 900;
 	font-size: 90px;
@@ -14000,7 +14000,7 @@ ol.commentlist li::after {
 	left: 50%;
 	width: 100%;
 	z-index: -1;
-	
+
 	-webkit-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
 	transform: translateX(-50%);
@@ -14010,7 +14010,7 @@ ol.commentlist li::after {
 .section-head h2:after,
 .section-head h3:after{
 	display:none;
-}	
+}
 
 }
 
@@ -14270,7 +14270,7 @@ ol.commentlist li::after {
 .worker-ex-two{
 	display:none;
 }
-	
+
 }
 
 
@@ -14286,7 +14286,7 @@ ol.commentlist li::after {
     100% {
         opacity:1;
     }
-} 
+}
 
 @-webkit-keyframes blink {
     0% {
@@ -14310,7 +14310,7 @@ ol.commentlist li::after {
     100% {
         opacity:1;
     }
-} 
+}
 /* Opera and prob css3 final iteration */
 @keyframes blink {
     0% {
@@ -14322,7 +14322,7 @@ ol.commentlist li::after {
     100% {
         opacity:1;
     }
-} 
+}
 .blink-image {
     -moz-animation: blink normal 2s infinite ease-in-out; /* Firefox */
     -webkit-animation: blink normal 2s infinite ease-in-out; /* Webkit */
