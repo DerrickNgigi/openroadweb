@@ -16,7 +16,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
 
     <!-- Page Title -->
-    @yield('title') 
+    @yield('title')
 
     <!-- Mobile Specific-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -165,10 +165,10 @@
                                         </span>
                                     </span>
                                 </a>
-                                
+
                                   <div class="cart-dropdown-item-wraper clearfix">
                                     <div class="nav-cart-content">
-                                        
+
                                         <div class="nav-cart-items p-a10">
                                             <div class="nav-cart-item clearfix">
                                                 <div class="nav-cart-item-image">
@@ -201,21 +201,21 @@
                                         </div>
                                     </div>
                                   </div>
-                                
-                            </div>                            
+
+                            </div>
                             <div class="extra-cell">
                                 <a href="#search" class="site-search-btn"><i class="fa fa-search"></i></a>
                             </div>
 
                          </div>
                         <!-- SITE Search -->
-                        <div id="search"> 
+                        <div id="search">
                             <span class="close"></span>
                             <form role="search" id="searchform" action="/search" method="get" class="radius-xl">
                                 <div class="input-group">
                                     <input value="" name="q" type="search" placeholder="Type to search"/>
                                     <span class="input-group-btn"><button type="button" class="search-btn"><i class="fa fa-search"></i></button></span>
-                                </div>   
+                                </div>
                             </form>
                         </div> --}}
 
@@ -225,28 +225,14 @@
                                 <li class="active">
                                     <a href="#">Home<i class=""></i></a>
                                 </li>
-
                                 <li>
-                                    <a href="#">About<i class=""></i></a>
+                                    <a href="#about">About<i class=""></i></a>
                                 </li>
-
                                 <li>
-                                    <a href="javascript:;">Services<i class="fa fa-chevron-down"></i></a>
-                                    <ul class="sub-menu">
-                                        <li><a href="#">Vehicle Storage</a></li>
-                                        <li><a href="#">Parking</a></li>
-                                        <li><a href="#">Auction Yard</a></li>
-                                        <li><a href="#">Ware Housing</a></li>
-                                    </ul>
+                                    <a href="#testimonial">Testimony<i class=""></i></a>
                                 </li>
-
-                                {{-- <li>
-                                    <a href="#">Prices<i class=""></i></a>
-
-                                </li> --}}
-
                                 <li>
-                                    <a href="#">Contact Us<i class=""></i></a>
+                                    <a href="#contact">Contact Us<i class=""></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -298,7 +284,7 @@
                                 </ul>
                             </div>
                         </div>
-                       
+
                         <!-- Instagram Feed -->
                         <div class="col-md-3 col-sm-6">
                             <div class="widget widget_newsletter f-news-letter text-white">
@@ -316,7 +302,7 @@
                                     </form>
                                 </div>
                             </div>
-                           
+
             <!-- Footer Copyright Part -->
             <div class="footer-bottom overlay-wraper bg-white">
                 <div class="overlay-main"></div>
