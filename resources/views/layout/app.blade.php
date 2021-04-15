@@ -6,10 +6,10 @@
     <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="" />
-    <meta name="author" content="" />
-    <meta name="robots" content="" />
-    <meta name="description" content="" />
+    <meta name="keywords" content="Best Nairobi Parking Spaces. Jogoo Road. WareHousing, Autioneering, Auction Yard, Vehicle Storage Vehicle for Sale" />
+    <meta name="author" content="Best Nairobi Parking Spaces. Jogoo Road. WareHousing, Autioneering, Auction Yard, Vehicle Storage Vehicle for Sale" />
+    <meta name="robots" content="Best Nairobi Parking Spaces. Jogoo Road. WareHousing, Autioneering, Auction Yard, Vehicle Storage Vehicle for Sale" />
+    <meta name="description" content="Best Nairobi Parking Spaces. Jogoo Road. WareHousing, Autioneering, Auction Yard, Vehicle Storage Vehicle for Sale" />
 
     <!-- Favicon -->
     <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
@@ -109,7 +109,7 @@
             <div class="main-bar header-middle bg-white">
                 <div class="container" style="padding-left: 0px ; padding-right: 0px">
                     <div class="logo-header" style="background-color: rgb(1, 14, 42);">
-                        <a href="/Best-Parking-and-Warehousing-Company-in-Nairobi">
+                        <a href="/">
                             {{-- <img src="images/logo-1.png" width="300" height="37" alt="" /> --}}
                              <div class="tp-caption BigBold-Title   tp-resizeme"
                             style="
@@ -285,7 +285,7 @@
                                     <li><i class="fa fa-envelope text-primary"></i> <b
                                             class="p-lr5 text-uppercase">Email : </b>info@openroad.co.ke</li>
                                     <li><i class="fa fa-location-arrow text-primary"></i> <b
-                                            class="p-lr5 text-uppercase">Location :511-00600, Nairobi</b></li>
+                                            class="p-lr5 text-uppercase">Location :511-00300, Nairobi</b></li>
                                 </ul>
                             </div>
                         </div>

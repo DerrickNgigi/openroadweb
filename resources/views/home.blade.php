@@ -711,7 +711,7 @@
                                             </div>
                                             <div class="icon-content">
                                                 <h4 class="mt-tilte  m-b15 text-primary">Accessibility</h4>
-                                                <p class="text-white">TThe premise is located in a suitable place for easy access.</p>
+                                                <p class="text-white">The premise is located in a suitable place for easy access.</p>
                                             </div>
                                         </div>
                                     </div>
